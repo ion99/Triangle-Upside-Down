@@ -4,8 +4,11 @@ Let’s print a triangle made of asterisks (‘*’) separated by spaces and con
 
 
 * * * * * * *
+
   * * * * *
+
     * * *
+    
       *
 
 The triangle should have n rows, where n is some given positive integer.
